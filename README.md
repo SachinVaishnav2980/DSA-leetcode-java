@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
