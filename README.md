@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0792-binary-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -103,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
