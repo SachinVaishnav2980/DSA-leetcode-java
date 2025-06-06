@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
