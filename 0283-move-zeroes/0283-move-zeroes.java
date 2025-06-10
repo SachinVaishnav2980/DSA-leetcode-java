@@ -1,21 +1,21 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
-        if(nums.length==1){
-            System.out.println(Arrays.toString(nums));
-        }
+    public void moveZeroes(int[] nums){
+        ArrayList<Integer> list=new ArrayList<>();
+        int count=0;
         for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length-1;j++){
-                if(nums[j]==0){
-                    swap(nums, j, j+1);
-                }
+            if(nums[i]==0){
+                count++;
+            }else{
+                list.add(nums[i]);
             }
         }
+        for(int i=0;i<count;i++){
+            list.add(0);
+        }
+        for(int i=0;i<nums.length;i++){
+            nums[i]=list.get(i);
+        }
         System.out.println(Arrays.toString(nums));
-    }
-
-    public void swap(int []nums, int first, int second){
-        int temp=nums[first];
-        nums[first]=nums[second];
-        nums[second]=temp;
+        
     }
 }
