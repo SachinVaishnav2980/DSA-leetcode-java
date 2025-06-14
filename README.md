@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1797-goal-parser-interpretation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1797-goal-parser-interpretation) |
 ## Greedy
 |  |
 | ------- |
