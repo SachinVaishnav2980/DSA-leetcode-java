@@ -9,10 +9,9 @@ class Solution {
             }
             stack.push(nums2[i]);
         }
-        int []result=new int[nums1.length];
         for(int i=0;i<nums1.length;i++){
-            result[i]=nextGreater.getOrDefault(nums1[i], -1);
+            nums1[i]=nextGreater.getOrDefault(nums1[i], -1);
         }
-        return result;
+        return nums1;
     }
 }
