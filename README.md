@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
 | ------- |
