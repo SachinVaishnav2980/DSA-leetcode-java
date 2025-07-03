@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0232-implement-queue-using-stacks) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
