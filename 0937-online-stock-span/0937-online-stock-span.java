@@ -1,20 +1,23 @@
+import java.util.AbstractMap;
+import java.util.Map;
+import java.util.Stack;
 class StockSpanner {
 
-    private ArrayList<Integer> list;
-    private int count;
+    Stack<Map.Entry<Integer, Integer>> stack;
+    int index=-1;
 
     public StockSpanner() {
-        this.list=new ArrayList<>();
+        this.stack=new Stack<>();
     }
     
     public int next(int price) {
-        list.add(price);
-        count=1;
-        for(int i=list.size()-2;i>=0;i--){
-            if(list.get(i)<=price) count++;
-            else break;
+        index++;
+        while (!stack.isEmpty() && stack.peek().getKey() <= price) {
+            stack.pop();
         }
-        return count;
+        int ans=index-(stack.isEmpty()?-1:stack.peek().getValue());
+        stack.push(new AbstractMap.SimpleEntry<>(price, index));
+        return ans;
     }
 }
 
