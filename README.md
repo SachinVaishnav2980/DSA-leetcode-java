@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
