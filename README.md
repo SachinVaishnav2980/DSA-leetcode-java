@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
