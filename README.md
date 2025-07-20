@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0344-reverse-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0735-asteroid-collision) |
