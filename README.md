@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0232-implement-queue-using-stacks) |
+| [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0937-online-stock-span) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 ## Prefix Sum
 |  |
 | ------- |
