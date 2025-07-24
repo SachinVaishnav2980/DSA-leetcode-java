@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
+| [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
