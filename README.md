@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Monotonic Stack
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
