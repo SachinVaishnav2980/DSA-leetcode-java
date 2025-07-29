@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
 ## Data Stream
 |  |
