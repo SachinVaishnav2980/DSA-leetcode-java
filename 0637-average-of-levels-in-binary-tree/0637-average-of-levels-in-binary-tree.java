@@ -34,8 +34,7 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            averageOfLevel = averageOfLevel / levelsize ;
-            result.add(averageOfLevel);
+            result.add(averageOfLevel / levelsize);
         }
         return result;
     }
