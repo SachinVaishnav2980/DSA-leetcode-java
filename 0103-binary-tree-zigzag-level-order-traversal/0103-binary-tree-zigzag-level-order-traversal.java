@@ -21,13 +21,13 @@ class Solution {
         }
         Deque<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
-        boolean reverse=false; 
-
+        // boolean reverse=false; 
+        int level=1;
         while (!queue.isEmpty()) {
             int levelsize = queue.size();
             List<Integer> currLevel = new ArrayList<>(levelsize);
             for (int i = 0; i < levelsize; i++) {
-                if(!reverse) {
+                if(level%2!=0) {
                     TreeNode node = queue.pollFirst();
                     currLevel.add(node.val);
                     if(node.left != null) {
@@ -47,7 +47,8 @@ class Solution {
                     }
                 }
             }
-            reverse=!reverse;
+            level++;
+            // reverse=!reverse;
             result.add(currLevel);
         }
         return result;
