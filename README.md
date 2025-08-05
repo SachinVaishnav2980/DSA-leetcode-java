@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 ## Matrix
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 ## Queue
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -391,5 +395,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
