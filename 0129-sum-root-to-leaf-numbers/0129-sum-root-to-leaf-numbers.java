@@ -15,27 +15,17 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        ArrayList<StringBuilder> list=new ArrayList<>();
-        StringBuilder string= new StringBuilder();
-        sumNumbers(root, list, string);
-        int sum=0;
-        for(int i=0; i<list.size();i++){
-            sum+= Integer.parseInt(list.get(i).toString());
-        }
-        return sum;
+        return helper(root, 0);
     }
 
-    public void sumNumbers(TreeNode node, ArrayList<StringBuilder> list, StringBuilder string){
-        if(node==null) return;
+    int helper(TreeNode node, int sum){
+        if(node==null) return 0;
 
-        string.append(Integer.toString(node.val));
+        sum=sum*10 + node.val;
         if(node.left==null && node.right==null){
-            list.add(new StringBuilder(string));
-        }else{
-            sumNumbers(node.left, list, string);
-            sumNumbers(node.right, list, string);
+            return sum;
         }
 
-        string.deleteCharAt(string.length()-1); //backtrack
+        return helper(node.left, sum) + helper(node.right, sum);
     }
 }
