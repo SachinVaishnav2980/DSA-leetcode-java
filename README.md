@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
