@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0394-decode-string) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
