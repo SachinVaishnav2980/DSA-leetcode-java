@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Greedy
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
