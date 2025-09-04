@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1013-fibonacci-number) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0937-online-stock-span) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
 ## String
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0792-binary-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Queue
 |  |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
