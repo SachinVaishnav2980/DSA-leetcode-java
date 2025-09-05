@@ -15,24 +15,28 @@
  */
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        if(root==null) return null;
         List<String> list=new ArrayList<>();
-        StringBuilder string=new StringBuilder();
-        findpath(root, list, string);
+        if(root==null){
+            return list;
+        }
+        StringBuilder sb=new StringBuilder();
+        helper(root, list, sb);
         return list;
     }
 
-    void findpath(TreeNode node, List<String> list, StringBuilder string){
-        if(node==null) return;
-        int len=string.length();
-        string.append(node.val);
-        if(node.left==null && node.right==null){
-            list.add(string.toString());
-        }else{
-            string.append("->");    
-            findpath(node.left, list, string);
-            findpath(node.right, list, string);
+    void helper(TreeNode node, List<String> list, StringBuilder sb){
+        if(node==null){
+            return ;
         }
-        string.setLength(len);
+        int len=sb.length();
+        if(node.left==null && node.right==null){
+            sb.append(node.val);
+            list.add(sb.toString());
+        }else{
+            sb.append(node.val).append("->");
+            helper(node.left, list, sb);
+            helper(node.right, list, sb);
+        }
+        sb.setLength(len);
     }
 }
