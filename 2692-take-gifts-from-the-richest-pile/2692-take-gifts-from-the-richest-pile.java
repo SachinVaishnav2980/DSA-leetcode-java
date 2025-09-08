@@ -10,13 +10,9 @@ class Solution {
             pq.add((long)Math.sqrt(maxGift));
             k--;
         } 
-        List<Long> list=new ArrayList<>();
-        while (!pq.isEmpty()) {
-            list.add(pq.poll());
-        }
         long sum=0;
-        for(long element:list){
-            sum+=element;
+        while(!pq.isEmpty()){
+            sum+=pq.poll();
         }
         return sum;
     }
