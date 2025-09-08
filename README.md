@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
+| [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
