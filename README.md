@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
