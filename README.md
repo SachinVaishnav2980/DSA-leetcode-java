@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0149-max-points-on-a-line](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0283-move-zeroes) |
