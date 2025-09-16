@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
