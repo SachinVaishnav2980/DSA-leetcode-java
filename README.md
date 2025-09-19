@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
