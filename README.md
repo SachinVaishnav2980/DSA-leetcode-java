@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
+| [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0649-dota2-senate) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
@@ -606,4 +611,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
