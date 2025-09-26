@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0649-dota2-senate) |
+| [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Array
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
+| [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
