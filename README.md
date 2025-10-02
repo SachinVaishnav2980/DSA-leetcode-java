@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0795-k-th-symbol-in-grammar) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
