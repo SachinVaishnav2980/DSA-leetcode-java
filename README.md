@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0061-rotate-list) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0630-course-schedule-iii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
