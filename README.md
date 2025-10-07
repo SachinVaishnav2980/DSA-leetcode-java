@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0535-encode-and-decode-tinyurl) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0937-online-stock-span) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
 ## Sliding Window
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -655,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
