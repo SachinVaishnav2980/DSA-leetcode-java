@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
