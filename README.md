@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
