@@ -1,28 +1,26 @@
 class Solution {
     public int compress(char[] chars) {
         int n=chars.length;
-        List<Character> list=new ArrayList<>();
-        int i=0;
-        while (i<n) {
-            char curr=chars[i];
+        int read=0;  //for reading all the characters 
+        int write=0; // for writing the character and count of same character
+
+        while (read<n) {
+            char curr=chars[read];
             int count=0;
-            while (i<n && curr==chars[i]) {
-                i++;
+            while (read<n && curr==chars[read]) {
+                read++;
                 count++;
             }
 
-            list.add(curr);
+            chars[write++]=curr;
 
             if(count>1){
                 String num=String.valueOf(count);
                 for(char ch:num.toCharArray()){
-                    list.add(ch);
+                    chars[write++]=ch;
                 }
             }
         }
-        for (int k = 0; k < list.size(); k++) {
-            chars[k] = list.get(k);
-        }
-        return list.size();
+       return write;
     }
 }
