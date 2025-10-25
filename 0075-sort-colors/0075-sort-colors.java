@@ -1,21 +1,22 @@
 class Solution {
     public void sortColors(int[] nums) {
-        while (!checkSort(nums)) {
-            for(int i=1;i<nums.length;i++){
-                if(nums[i]<nums[i-1]){
-                    swap(nums, i, i-1);
-                }
+        int n=nums.length;
+        int low=0;
+        int mid=0;
+        int high=n-1;
+        while (mid<=high) {
+            if(nums[mid]==0){
+                swap(nums, low, mid);
+                mid++;
+                low++;
+            }else if(nums[mid]==1){
+                mid++;
+            }else{
+                swap(nums, high, mid);
+                high--;
             }
         }
-    }
 
-    boolean checkSort(int []nums){
-        for(int i=0;i<nums.length;i++){
-            if(i+1<nums.length && nums[i]>nums[i+1]){
-                return false;
-            }
-        }
-        return true;
     }
     
     void swap(int []nums, int first, int second){
