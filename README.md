@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0295-find-median-from-data-stream) |
