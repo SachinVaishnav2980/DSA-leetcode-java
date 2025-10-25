@@ -1,10 +1,12 @@
 class Solution {
     public void sortColors(int[] nums) {
-        for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length;j++){
-                if(nums[i]<nums[j]){
-                    swap(nums, i, j);
+        for(int i=1;i<nums.length;i++){
+            int j=i-1;
+            while(j>=0){
+                if(nums[j]>nums[j+1]){
+                    swap(nums,j,j+1);
                 }
+                j--;
             }
         }
     }
