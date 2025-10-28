@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -766,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0218-the-skyline-problem) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
