@@ -1,19 +1,11 @@
 class Solution {
     public int smallestNumber(int n) {
-        int mask=0;
-        int num1=n;
+        int bits=0;
         while(n>0){
-            mask=mask*10+1;
+            bits++;
             n=n/2;
         }
-        int i=0;
-        int ans=0;
-        while(mask>0){
-            int digit=mask%10;
-            ans+=digit*Math.pow(2, i);
-            i++;
-            mask=mask/10;
-        }
-        return ans;
+        int ans=(int)Math.pow(2, bits);
+        return ans-1;
     }
 }
