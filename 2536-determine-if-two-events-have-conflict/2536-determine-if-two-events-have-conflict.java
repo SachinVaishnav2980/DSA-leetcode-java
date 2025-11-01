@@ -11,6 +11,6 @@ class Solution {
             nextStart=Integer.parseInt(event2[0].substring(0, 2))*60+Integer.parseInt(event2[0].substring(3, event2[0].length()));;
             nextEnd=Integer.parseInt(event2[1].substring(0, 2))*60+Integer.parseInt(event2[1].substring(3, event2[1].length()));;
 
-            return currStart <= nextEnd && nextStart <= currEnd;
+            return Math.max(currStart, nextStart)<=Math.min(currEnd, nextEnd);
         }
 }
