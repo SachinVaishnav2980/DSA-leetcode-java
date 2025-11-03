@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0838-design-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0735-asteroid-collision) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
+| [0445-add-two-numbers-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1013-fibonacci-number) |
