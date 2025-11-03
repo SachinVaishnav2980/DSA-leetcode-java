@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
