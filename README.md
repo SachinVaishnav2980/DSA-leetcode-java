@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Design
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
