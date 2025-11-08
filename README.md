@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
