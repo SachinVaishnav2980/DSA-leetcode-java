@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3863-power-grid-maintenance) |
 ## Design
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
