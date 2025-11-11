@@ -1,26 +1,26 @@
 class Solution {
-    public int pivotIndex(int[] nums) {
-        int n=nums.length;
-        int[]prefix=new int[n];
-        int []suffix=new int [n];
-        prefix[0]=0;
-        suffix[n-1]=0;
+    public static int pivotIndex(int[] nums){
+        return pivot(nums, 0);
+    }
 
-        //Building the prefix array
-        for(int i=1;i<n;i++){
-            prefix[i]=nums[i-1]+prefix[i-1];
+    static int pivot(int []nums, int index){
+        if (index==nums.length){
+            return -1;
+        }
+        boolean flag=sum(nums, 0,index)==sum(nums, index+1, nums.length)?true:false;
+        if(flag){
+            return index;
+        }else{
+            return pivot(nums, index+1);
+        }
+    }
+
+   static int sum(int []nums, int start, int end){
+        int sum=0;
+        for(int i=start;i<end;i++){
+            sum+=nums[i];
         }
 
-        //Building the suffix array
-        for(int i=n-2;i>=0;i--){
-            suffix[i]=nums[i+1]+suffix[i+1];
-        }
-
-        for(int i=0;i<n;i++){
-            if(prefix[i]==suffix[i]){
-                return i;
-            }
-        }
-        return -1;
+        return sum;
     }
 }
