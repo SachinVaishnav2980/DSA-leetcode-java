@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Monotonic Stack
 |  |
 | ------- |
