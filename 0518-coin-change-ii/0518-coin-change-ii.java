@@ -1,26 +1,30 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int n=coins.length;
+        int [][]dp=new int [n][amount+1];
+        for(int []row:dp){
+            Arrays.fill(row, -1);
+        }
+        return minChange(coins, amount, 0, dp);
+    }
 
-        int [][]dp=new int [n+1][amount+1];
+    int minChange(int []coins, int amount, int index, int [][]dp){
+        //Base case
+        if(amount==0){
+            return 1;
+        }
 
-        //Initialization
-        for(int i=0;i<n+1;i++){
-            dp[i][0]=1;
+        if(index==coins.length) return 0;
+
+        if(dp[index][amount]!=-1) return dp[index][amount];
+        //pick 
+        int pick=0;
+        if(coins[index]<=amount){
+           pick= minChange(coins, amount-coins[index], index, dp);
         }
-        for(int i=1;i<amount+1;i++){
-            dp[0][i]=0;
-        }
-        //No. of coins calculation
-        for(int i=1;i<n+1;i++){
-            for(int j=1;j<amount+1;j++){
-                if(coins[i-1]<=j){
-                    dp[i][j]=(dp[i][j-coins[i-1]]+dp[i-1][j]);
-                }else{
-                    dp[i][j]=dp[i-1][j];
-                }
-            }
-        }
-        return dp[n][amount];
+        //not pick
+        int notpick=minChange(coins, amount, index+1, dp);
+
+        return dp[index][amount]=pick+notpick;
     }
 }
