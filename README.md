@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0416-partition-equal-subset-sum) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
