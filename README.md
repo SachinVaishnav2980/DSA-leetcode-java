@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
