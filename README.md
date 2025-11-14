@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0742-to-lower-case) |
+| [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
+| [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
