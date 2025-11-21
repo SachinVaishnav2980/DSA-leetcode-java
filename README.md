@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0658-find-k-closest-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2465-shifting-letters-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
