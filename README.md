@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0759-set-intersection-size-at-least-two) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
+| [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0759-set-intersection-size-at-least-two) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2274-keep-multiplying-found-values-by-two) |
