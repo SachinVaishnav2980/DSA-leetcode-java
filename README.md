@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1636-number-of-substrings-with-only-1s) |
