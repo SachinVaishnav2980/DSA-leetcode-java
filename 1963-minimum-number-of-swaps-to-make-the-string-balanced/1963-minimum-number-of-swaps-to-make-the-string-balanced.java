@@ -7,15 +7,16 @@ class Solution {
             } else { // ch == ']'
                 if (!st.isEmpty() && st.peek() == '[') {
                     st.pop(); // matched pair, remove
-                } else {
-                    st.push(ch); // unmatched closing bracket
                 }
+                //  else {
+                //     st.push(ch); // unmatched closing bracket
+                // }
             }
         }
-        int unmatched =0;
-        while(!st.isEmpty()){
-            if(st.pop()=='[') unmatched++;
-        } // will be even
+        int unmatched =st.size();
+        // while(!st.isEmpty()){
+        //     if(st.pop()=='[') unmatched++;
+        // } // will be even
         return (unmatched + 1) / 2;
     }
 }
