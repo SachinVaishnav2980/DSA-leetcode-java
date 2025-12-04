@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2465-shifting-letters-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2465-shifting-letters-ii) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
