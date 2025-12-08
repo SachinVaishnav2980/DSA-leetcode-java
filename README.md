@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2050-count-good-numbers) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -974,4 +975,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3863-power-grid-maintenance) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
