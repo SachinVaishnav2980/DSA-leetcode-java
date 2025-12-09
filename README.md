@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
