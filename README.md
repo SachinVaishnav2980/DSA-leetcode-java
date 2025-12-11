@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3531-count-covered-buildings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3531-count-covered-buildings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
