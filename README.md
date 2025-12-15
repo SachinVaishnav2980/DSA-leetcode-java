@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0860-design-circular-queue) |
