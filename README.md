@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
