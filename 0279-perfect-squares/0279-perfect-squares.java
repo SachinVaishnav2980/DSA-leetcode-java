@@ -1,21 +1,16 @@
 class Solution {
     public int numSquares(int n) {
         int []dp=new int[n+1];
-        Arrays.fill(dp, -1);
-        return solve(n, dp);
-    }
+        dp[0]=0;
 
-    int solve(int n, int[]dp){
-        if(n==0) return 0;
+        for(int i=1;i<=n;i++){
+            dp[i]=Integer.MAX_VALUE;
 
-        if(dp[n]!=-1) return dp[n];
-        int min=Integer.MAX_VALUE;
-        for(int i=1;i*i<=n;i++){
-            int square=i*i;
-
-            min=Math.min(min, 1+solve(n-square, dp));
+            //try all prefect squares
+            for(int j=1;j*j<=i;j++){
+                dp[i]=Math.min(dp[i], 1+dp[i-j*j]);
+            }
         }
-        
-        return dp[n]=min;
+        return dp[n];
     }
 }
