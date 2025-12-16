@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
