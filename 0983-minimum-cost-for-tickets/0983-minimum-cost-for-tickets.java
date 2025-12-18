@@ -1,21 +1,32 @@
 class Solution {
+    int []dp=new int[366];
     public int mincostTickets(int[] days, int[] costs) {
-        int n=days.length;
-        boolean[] travel = new boolean[366];
-        for (int d : days) travel[d] = true;
+        Arrays.fill(dp, -1);
+        return solve(days, costs, 0);
+    }
 
-        int []dp=new int[366];
-        for(int d=1;d<=365;d++){
-            if(!travel[d]){
-                dp[d]=dp[d-1];
-            }else{
-                dp[d]=Math.min(dp[d - 1] + costs[0], Math.min(
-                    dp[Math.max(0, d - 7)] + costs[1],
-                    dp[Math.max(0, d - 30)] + costs[2]
-                    )
-                );
-            }
+    int solve(int []days, int []costs, int index){
+        if(index>=days.length) return 0;
+        if(dp[index]!=-1) return dp[index];
+        int j=index;
+        //1-Day pass
+        while(j<days.length && days[j]<days[index]+1){
+            j++;
         }
-        return dp[365];
+        int oneday=costs[0]+solve(days, costs, j);
+
+        //7-Day pass
+        while(j<days.length && days[j]<days[index]+7){
+            j++;
+        }
+        int sevenday=costs[1]+solve(days, costs, j);
+
+        //30-Day pass
+        while(j<days.length && days[j]<days[index]+30){
+            j++;
+        }
+        int thirtyday=costs[2]+solve(days, costs, j);
+
+        return dp[index]=Math.min(oneday, Math.min(sevenday, thirtyday));
     }
 }
