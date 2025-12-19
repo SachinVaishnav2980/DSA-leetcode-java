@@ -16,21 +16,21 @@
 class Solution {
     int diameter=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        getHeight(root);
-        return diameter-1;
+        solve(root);
+        return diameter;
     }
 
-    public int getHeight(TreeNode node){
+    public int solve(TreeNode node){
         if(node==null){
             return 0;
         }
 
-        int leftHeight=getHeight(node.left);
-        int rightHeight=getHeight(node.right);
+        int leftHeight=solve(node.left);
+        int rightHeight=solve(node.right);
 
-        int dia=leftHeight+rightHeight+1;
-
-        diameter=Math.max(diameter, dia);
-        return Math.max(leftHeight, rightHeight)+1;
+        int temp=Math.max(leftHeight, rightHeight)+1;
+        int ans=leftHeight + rightHeight;
+        diameter=Math.max(diameter, ans);
+        return temp;
     }
 }
