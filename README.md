@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3531-count-covered-buildings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3583-count-special-triplets) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3433-count-mentions-per-user](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -712,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3583-count-special-triplets) |
