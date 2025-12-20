@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0742-to-lower-case) |
 | [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0983-minimum-cost-for-tickets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0983-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
