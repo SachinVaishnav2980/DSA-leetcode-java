@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1250-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0740-delete-and-earn) |
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1590-make-sum-divisible-by-p) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0983-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1497-design-a-stack-with-increment-operation) |
