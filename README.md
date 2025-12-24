@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0887-super-egg-drop) |
+| [0935-knight-dialer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0935-knight-dialer) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1013-fibonacci-number) |
