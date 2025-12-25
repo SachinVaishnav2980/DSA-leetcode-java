@@ -1,27 +1,27 @@
 class Solution {
-    static int MOD=1000000007;
     public int checkRecord(int n) {
-        int [][][]dp=new int[n][2][3];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<2;j++){
-                for(int k=0;k<3;k++){
-                    dp[i][j][k]=-1;
+        int M = 1000000007;
+        int[][][] t = new int[100001][2][3];
+
+        // Base Case - 0 number of days. So, t[0][A][L], we return 1
+        for (int A = 0; A <= 1; ++A) {
+            for (int L = 0; L <= 2; ++L) {
+                t[0][A][L] = 1;
+            }
+        }
+
+        for (int i = 1; i <= n; i++) {
+            for (int A = 0; A <= 1; A++) {
+                for (int L = 0; L <= 2; L++) {
+
+                    long result = t[i - 1][A][0]; 
+                    result += (L < 2 ? t[i - 1][A][L + 1] : 0);  
+                    result += (A == 0 ? t[i - 1][A + 1][0] : 0); 
+                    t[i][A][L] = (int) (result % M);
                 }
             }
         }
-        return solve(0, 0, 0, n, dp);
-    }
 
-    int solve(int days, int curr_a, int curr_l, int n, int [][][]dp){
-        //Base Case
-        if(days==n) return 1;
-        if(dp[days][curr_a][curr_l]!=-1) return dp[days][curr_a][curr_l];
-        int num_a=(curr_a==1)?0:solve(days+1, 1, 0, n, dp);
-        int num_l=(curr_l==2)?0:solve(days+1, curr_a, curr_l+1, n, dp);
-        int num_p=solve(days+1, curr_a, 0, n, dp);
-
-        int total=((num_a + num_l)%MOD + num_p)%MOD;
-        dp[days][curr_a][curr_l]=total;
-        return total;
+        return t[n][0][0];
     }
 }
