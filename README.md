@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0152-maximum-product-subarray) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0137-single-number-ii) |
