@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0552-student-attendance-record-ii) |
+| [0629-k-inverse-pairs-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0629-k-inverse-pairs-array) |
 | [0740-delete-and-earn](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0887-super-egg-drop) |
