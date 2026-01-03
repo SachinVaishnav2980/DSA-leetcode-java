@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
