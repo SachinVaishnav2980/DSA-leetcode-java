@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0629-k-inverse-pairs-array) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0887-super-egg-drop) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0742-to-lower-case) |
 | [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
