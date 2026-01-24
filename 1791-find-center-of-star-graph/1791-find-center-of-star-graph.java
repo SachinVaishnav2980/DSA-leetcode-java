@@ -8,13 +8,10 @@ class Solution {
             degree[u]++;
             degree[v]++;
         }
-        int max=Integer.MIN_VALUE;
-        for(int i=0;i<degree.length;i++){
-            max=Math.max(max, degree[i]);
-        }
+        int n=edges.length;
         int ans=0;
         for(int i=0;i<degree.length;i++){
-            if(degree[i]==max){
+            if(degree[i]==n){
                 ans=i;
             }
         }
