@@ -10,22 +10,18 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        if(head==null) return true;
+        String number="";
         ListNode temp=head;
-        List<Integer> list =new ArrayList<>();
-        while (temp!=null) {
-            list.add(temp.val);
+        while(temp!=null){
+            number+=temp.val;
             temp=temp.next;
         }
-
-        //compare both arrays
-        return compare(list);
-    }
-
-    boolean compare(List<Integer> list){
+        //check palindrome
         int i=0;
-        int j=list.size()-1;
-        while (i<j) {
-            if(!list.get(i).equals(list.get(j))){
+        int j=number.length()-1;
+        while(i<=j){
+            if(number.charAt(i)!=number.charAt(j)){
                 return false;
             }
             i++;
