@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
 | ------- |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3644-minimum-positive-sum-subarray) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
