@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0206-reverse-linked-list) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0218-the-skyline-problem) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1072,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0148-sort-list) |
 ## Bucket Sort
 |  |
 | ------- |
