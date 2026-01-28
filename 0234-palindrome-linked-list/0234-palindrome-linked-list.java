@@ -10,22 +10,33 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head==null) return true;
-        String number="";
-        ListNode temp=head;
-        while(temp!=null){
-            number+=temp.val;
-            temp=temp.next;
+        if(head==null || head.next==null) return true;
+
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        //check palindrome
-        int i=0;
-        int j=number.length()-1;
-        while(i<=j){
-            if(number.charAt(i)!=number.charAt(j)){
+
+        //reverse second half
+        ListNode prev=null;
+        while(slow!=null){
+        ListNode temp=slow.next;
+            slow.next=prev;
+            prev=slow;
+            slow=temp;
+        }        
+
+        //now compare both halfs
+        ListNode left=head;
+        ListNode right=prev;
+        while(right!=null){
+            if(left.val!=right.val){
                 return false;
             }
-            i++;
-            j--;
+            right=right.next;
+            left=left.next;
         }
         return true;
     }
