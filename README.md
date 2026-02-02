@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3074-apple-redistribution-into-boxes) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
