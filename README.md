@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0629-k-inverse-pairs-array) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0542-01-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0994-rotting-oranges) |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
