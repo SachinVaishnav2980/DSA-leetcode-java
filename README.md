@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2092-find-all-people-with-secret](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2092-find-all-people-with-secret) |
@@ -1178,4 +1182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
