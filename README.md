@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2285-maximum-total-importance-of-roads) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1196,5 +1199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
