@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
+| [0872-leaf-similar-trees](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0872-leaf-similar-trees) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0872-leaf-similar-trees) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0872-leaf-similar-trees) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1382-balance-a-binary-search-tree) |
