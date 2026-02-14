@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0799-champagne-tower) |
 | [0887-super-egg-drop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0887-super-egg-drop) |
 | [0935-knight-dialer](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0935-knight-dialer) |
 | [0943-sum-of-subarray-minimums](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0943-sum-of-subarray-minimums) |
