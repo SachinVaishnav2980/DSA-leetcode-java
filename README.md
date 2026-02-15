@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1791-find-center-of-star-graph) |
@@ -1243,5 +1246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
