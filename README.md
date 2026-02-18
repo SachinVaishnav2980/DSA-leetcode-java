@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0207-course-schedule) |
