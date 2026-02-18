@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0795-k-th-symbol-in-grammar) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
