@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0687-longest-univalue-path) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0733-flood-fill) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1791-find-center-of-star-graph) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
