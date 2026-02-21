@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
 | [0445-add-two-numbers-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0795-k-th-symbol-in-grammar) |
 | [0887-super-egg-drop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0887-super-egg-drop) |
 | [0991-broken-calculator](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0991-broken-calculator) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0795-k-th-symbol-in-grammar) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
