@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1416-restore-the-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1416-restore-the-array) |
 | [1463-cherry-pickup-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1504-count-submatrices-with-all-ones) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1328-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1416-restore-the-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1416-restore-the-array) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
