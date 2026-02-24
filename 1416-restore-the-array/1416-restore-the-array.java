@@ -26,7 +26,7 @@ class Solution {
             
             if(number > k) break;
             
-            count = (count + helper(i + 1, s, k, dp)) % mod;
+            count = (count % mod + helper(i + 1, s, k, dp) % mod) % mod;
         }
         
         return dp[index] = count;
