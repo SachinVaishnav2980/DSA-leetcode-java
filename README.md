@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1463-cherry-pickup-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0795-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
 | [2092-find-all-people-with-secret](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2092-find-all-people-with-secret) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
