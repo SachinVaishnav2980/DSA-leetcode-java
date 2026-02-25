@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
 | [1590-make-sum-divisible-by-p](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1382-balance-a-binary-search-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1382-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2092-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1504-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
@@ -938,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1035-cousins-in-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1005,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1293,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
