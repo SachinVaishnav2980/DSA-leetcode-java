@@ -1,29 +1,30 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans=new ArrayList<>();
-        permutation(nums, ans, 0);
-        return ans;
-
+        List<List<Integer>> res=new ArrayList<>();
+        solve(nums, 0, res);
+        return res;
     }
 
-    public void permutation(int []nums, List<List<Integer>> ans, int index){
+    void solve(int []nums, int index, List<List<Integer>> res){
         if(index==nums.length){
-            List<Integer> ds=new ArrayList<>();
+            List<Integer> list=new ArrayList<>();
             for(int i=0;i<nums.length;i++){
-                ds.add(nums[i]);
+                list.add(nums[i]);
             }
-            ans.add(new ArrayList<>(ds));
+            res.add(new ArrayList<>(list));
+            return ;
         }
-        for(int i=index;i<nums.length;i++){
-            swap(nums, i, index);
-            permutation(nums, ans, index+1);
-            swap(nums, i, index);
+
+        for(int j=index;j<nums.length;j++){
+            swap(nums, index, j);
+            solve(nums, index+1, res);
+            swap(nums, index, j);
         }
     }
 
-    public void swap(int []arr, int first, int second){
-        int temp=arr[first];
-        arr[first]=arr[second];
-        arr[second]=temp;
+    void swap(int []nums, int i, int j){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
     }
 }
