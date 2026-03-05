@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2285-maximum-total-importance-of-roads) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Depth-First Search
 |  |
 | ------- |
