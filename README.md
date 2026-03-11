@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
