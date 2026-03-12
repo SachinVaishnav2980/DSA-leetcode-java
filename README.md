@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2285-maximum-total-importance-of-roads) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -1317,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1332,4 +1336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
