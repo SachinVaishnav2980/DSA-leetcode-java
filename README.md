@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1328-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1416-restore-the-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1416-restore-the-array) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Depth-First Search
 |  |
