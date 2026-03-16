@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1642-water-bottles) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
 | [1899-count-items-matching-a-rule](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1504-count-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
 | [2092-find-all-people-with-secret](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2092-find-all-people-with-secret) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -1042,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1127-last-stone-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2285-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1073,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2465-shifting-letters-ii) |
