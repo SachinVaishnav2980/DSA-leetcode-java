@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3074-apple-redistribution-into-boxes) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3616-make-array-elements-equal-to-zero) |
