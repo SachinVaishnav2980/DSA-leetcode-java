@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1504-count-submatrices-with-all-ones) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1504-count-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
