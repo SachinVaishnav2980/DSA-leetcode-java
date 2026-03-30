@@ -1,58 +1,63 @@
 class Solution {
-
     class Pair{
-        int row;
-        int col;
-        int steps;
-        
-        public Pair(int row, int col, int steps){
-            this.row=row;
-            this.col=col;
-            this.steps=steps;
+        int xCord;
+        int yCord;
+        int dist;
+
+        public Pair (int x, int y, int dis){
+            this.xCord=x;
+            this.yCord=y;
+            this.dist=dis;
         }
     }
-    
-    int []delRow={-1, 0, 1, 0};
-    int []delCol={0, 1, 0, -1};
+
+    int []dx={-1, 0, 1, 0};
+    int dy[]={0, 1, 0, -1};
 
     public int[][] updateMatrix(int[][] mat) {
         int n=mat.length;
         int m=mat[0].length;
+
         Queue<Pair> q=new LinkedList<>();
-        int [][] ans=new int[n][m];
         boolean [][]vis=new boolean[n][m];
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
+                    q.add(new Pair(i, j, 0));
                     vis[i][j]=true;
-                    q.offer(new Pair(i, j, 0));
-                }else{
-                    vis[i][j]=false;
                 }
             }
         }
 
-        while(!q.isEmpty()){
-            Pair p=q.poll();
-            int sr=p.row;
-            int sc=p.col;
-            int steps=p.steps;
 
-            ans[sr][sc]=steps;
+        while (!q.isEmpty()) {
+            Pair p=q.poll();
+
+            int x=p.xCord;
+            int y=p.yCord;
+            int dist=p.dist;
+
+            mat[x][y]= dist;
 
             for(int i=0;i<4;i++){
-                int nr=sr+delRow[i];
-                int nc=sc+delCol[i];
-                
-                
-                if(nr>=0 && nr<mat.length && nc>=0 && nc<mat[0].length 
-                    && !vis[nr][nc]){
-                        vis[nr][nc]=true;
-                        q.offer(new Pair(nr, nc, steps+1));
+                int nrow=x+dx[i];
+                int ncol=y+dy[i];
+
+                if(isValid(mat, nrow, ncol) && !vis[nrow][ncol]){
+                    vis[nrow][ncol]=true;
+
+                    q.add(new Pair(nrow, ncol, dist+1));
                 }
             }
         }
-        return ans;
+        return mat;
+    }
+
+    public boolean isValid(int [][]mat, int row, int col){
+        int n=mat.length;
+        int m=mat[0].length;
+
+        return row>=0 && row<n && col>=0 && col<m;
     }
 }
