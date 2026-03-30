@@ -6,10 +6,10 @@ class Solution {
     private boolean helper(StringBuilder s1, StringBuilder s2){
         int n=s1.length();
 
-        char []even1=new char[n];
-        char []even2=new char [n];
-        char []odd1=new char [n];
-        char []odd2=new char [n];
+        char []even1=new char[(n+1)/2];
+        char []even2=new char [(n+1)/2];
+        char []odd1=new char [n/2];
+        char []odd2=new char [n/2];
 
         int E=0; 
         int O=0;
