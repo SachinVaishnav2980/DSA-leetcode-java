@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2605-count-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2605-count-anagrams) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
