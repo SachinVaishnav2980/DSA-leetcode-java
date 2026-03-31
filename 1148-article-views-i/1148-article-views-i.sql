@@ -1,8 +1,5 @@
 # Write your MySQL query statement below
-SELECT DISTINCT sub.viewer_id AS id
-        FROM(
-            SELECT article_id, 
-                    author_id,
-                    viewer_id
-                FROM Views WHERE author_id=viewer_id
-        ) sub ORDER BY id;
+SELECT DISTINCT viewer_id AS id
+FROM Views
+WHERE author_id = viewer_id
+ORDER BY id;
