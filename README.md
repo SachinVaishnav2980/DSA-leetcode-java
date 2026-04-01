@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2227-sum-of-subarray-ranges) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2751-robot-collisions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2751-robot-collisions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2751-robot-collisions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2751-robot-collisions) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2906-construct-product-matrix) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2295-replace-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2751-robot-collisions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3379-transformed-array) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2751-robot-collisions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
