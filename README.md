@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0343-integer-break) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
