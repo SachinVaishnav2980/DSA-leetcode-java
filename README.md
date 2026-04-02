@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1013-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1250-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1328-break-a-palindrome) |
