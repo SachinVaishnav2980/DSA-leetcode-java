@@ -3,28 +3,20 @@ class Solution {
         int n=dungeon.length;
         int m=dungeon[0].length;
         int [][]dp=new int [n+1][m+1];
-        for(int []a:dp) Arrays.fill(a, -1);
-        return solve(0, 0, dungeon, dp);
-    }
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+                if(i==n-1 && j==m-1){
+                    if(dungeon[i][j]>0) dp[i][j]= 1;
+                    else dp[i][j]=Math.abs(dungeon[i][j])+1;
+                }else{
+                    int right=(j+1>=m)?Integer.MAX_VALUE:dp[i][j+1];
+                    int down=(i+1>=n)?Integer.MAX_VALUE:dp[i+1][j];
 
-    int solve(int i, int j, int [][]mat, int [][]dp){
-        int n=mat.length;
-        int m=mat[0].length;
-
-        if(i>=n || j>=m) return Integer.MAX_VALUE;
-        
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        if(i==n-1 && j==m-1){
-            if(mat[i][j]>0) return 1; 
-            else return Math.max(1, 1 - mat[i][j]);
+                    int res=Math.min(right, down)-dungeon[i][j];
+                    dp[i][j]=res>0?res:1;
+                }
+            }
         }
-
-        int right=solve(i, j+1, mat, dp);
-        int down=solve(i+1, j, mat, dp);
-
-        int res=Math.min(right, down)-mat[i][j];
-
-        return dp[i][j]=res>0?res:1;
+        return dp[0][0];
     }
 }
