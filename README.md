@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0730-count-different-palindromic-subsequences](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0799-champagne-tower) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0730-count-different-palindromic-subsequences](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0730-count-different-palindromic-subsequences) |
 | [0742-to-lower-case](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0742-to-lower-case) |
 | [0761-special-binary-string](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0761-special-binary-string) |
 | [0878-shifting-letters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0878-shifting-letters) |
