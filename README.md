@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0233-number-of-digit-one) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0213-house-robber-ii) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
