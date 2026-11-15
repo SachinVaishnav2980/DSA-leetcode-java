@@ -1,38 +1,27 @@
-
 class Solution {
-    int MOD = 1000000007;
-
+    // EVEN + ODD = ODD
+    // ODD + EVEN = ODD
+    int MOD=1000000007;
     public int numOfSubarrays(int[] arr) {
-        int n = arr.length;
-        int[][] memo = new int[n][2];
+        int n=arr.length;
 
-        for (int[] m : memo) {
-            Arrays.fill(m, -1);
+        int sum=0;
+        int evenCount=1;
+        int oddCount=0;
+
+        int totalCount=0;
+        for(int i=0;i<n;i++){
+            sum+=arr[i];
+
+            // if sum is even check odd count
+            if(sum%2==0){
+                totalCount=(totalCount+oddCount)%MOD;
+                evenCount++;
+            }else{
+                totalCount=(totalCount+evenCount)%MOD;
+                oddCount++;
+            }
         }
-
-        int count = 0;
-
-        for (int i = 0; i < n; i++) {
-            count = (count + solve(arr, i, 0, memo)) % MOD;
-        }
-
-        return count;
-    }
-
-    int solve(int[] arr, int idx, int parity, int[][] memo) {
-
-        if (idx == arr.length) return 0;
-
-        if (memo[idx][parity] != -1) {
-            return memo[idx][parity];
-        }
-
-        int newParity = (parity + arr[idx] % 2 + 2) % 2;
-
-        int count = newParity == 1 ? 1 : 0;
-
-        count = (count + solve(arr, idx + 1, newParity, memo)) % MOD;
-
-        return memo[idx][parity] = count;
+        return totalCount%MOD;
     }
 }
