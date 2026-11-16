@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1818-minimum-absolute-sum-difference) |
 | [1839-decode-xored-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1839-decode-xored-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1612-avoid-flood-in-the-city](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1631-path-with-minimum-effort) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1818-minimum-absolute-sum-difference) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2673-maximize-win-from-two-segments](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/2673-maximize-win-from-two-segments) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1818-minimum-absolute-sum-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-sorting-the-sentence](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1970-sorting-the-sentence) |
@@ -1358,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0731-my-calendar-ii) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/1818-minimum-absolute-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/3863-power-grid-maintenance) |
 ## String Matching
