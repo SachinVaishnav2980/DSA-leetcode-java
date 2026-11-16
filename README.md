@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0658-find-k-closest-elements) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0496-next-greater-element-i) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0731-my-calendar-ii) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/SachinVaishnav2980/DSA-leetcode-java/tree/master/0630-course-schedule-iii) |
